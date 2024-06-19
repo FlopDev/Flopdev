@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a French iOS developer passionate about creating innov
 ## 🚀 Recent Projects
 
 ### 📱 OneBet
-Brief description of project 1 with key points and your contributions.
+An application that posts one prediction per day.
 
 ### 📱 Reciplease
 Input ingredients, get recipe suggestions for fresh and varied meals.
@@ -32,8 +32,8 @@ Input ingredients, get recipe suggestions for fresh and varied meals.
 
 ## 📊 GitHub Stats
 
-![Florian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flopdev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flopdev&layout=compact&theme=radical)
+![Florian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flopdev&show_icons=true&theme=grey)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flopdev&layout=compact&theme=grey)
 
 
 ## 🖥️ Let's Connect
