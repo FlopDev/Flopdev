@@ -2,7 +2,7 @@
 
 ### 🇫🇷 iOS Developer  | Tech Enthusiast | Creative
 
-![Profile Views](https://komarev.com/ghpvc/?username=flopdev&style=flat-square&color=blue) 
+![Profile Views](https://komarev.com/ghpvc/?username=flopdev&style=flat-square&color=brown) 
 
 
 Welcome to my GitHub! I'm a French iOS developer passionate about creating innovative and high-performance mobile applications.📱
