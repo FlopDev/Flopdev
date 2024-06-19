@@ -46,10 +46,6 @@ Input ingredients, get recipe suggestions for fresh and varied meals.
 ⭐️ From [Florian Peyrony](https://github.com/flopdev)
 
 
-
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
