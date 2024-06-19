@@ -1,12 +1,10 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi there,👋! I'm Florian Peyrony!</h2>
 
-###xaa# 👋 Hi there, I'm Florian Peyrony!
+### 🇫🇷 iOS Developer  | Tech Enthusiast | Creative
 
-### 🇫🇷 iOS Developer | Tech Enthusiast | Creative
+![Profile Views](https://komarev.com/ghpvc/?username=flopdevs&style=flat-square&color=blue) 
 
-![Profile Views](https://komarev.com/ghpvc/?username=florianpeyrony&style=flat-square&color=blue) 
-
-Welcome to my GitHub! I'm a French iOS developer passionate about creating innovative and high-performance mobile applications. 🎨🚀
+Welcome to my GitHub! I'm a French iOS developer passionate about creating innovative and high-performance mobile applications.📱
 
 ## 🌟 About Me
 
@@ -20,8 +18,8 @@ Welcome to my GitHub! I'm a French iOS developer passionate about creating innov
 ### 📱 OneBet
 Brief description of project 1 with key points and your contributions.
 
-### 📱 [Project Name 2]
-Brief description of project 2 with key points and your contributions.
+### 📱 Reciplease
+Input ingredients, get recipe suggestions for fresh and varied meals.
 
 ## 🛠️ Technologies and Tools
 
@@ -38,18 +36,18 @@ Brief description of project 2 with key points and your contributions.
 
 ## 📈 Contributions
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=florianpeyrony&theme=redical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=flopdev&theme=redical)
 
 
 ## 🖥️ Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florianpeyrony)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/florianpeyrony)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://florianpeyrony.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-peyrony-0ba181147/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flopdevios/)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://flopdev.wordpress.com)
 
 ---
 
-⭐️ From [Florian Peyrony](https://github.com/florianpeyrony)
+⭐️ From [Florian Peyrony](https://github.com/flopdev)
 
 
 <div align="center">
