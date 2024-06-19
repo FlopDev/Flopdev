@@ -10,14 +10,14 @@ Welcome to my GitHub! I'm a French iOS developer passionate about creating innov
 
 ## 🌟 About Me
 
-- 🎓 **Education**: Graduated in Computer Science from [University Name]
-- 💼 **Experience**: iOS Developer at [Company Name]
-- 🚀 **Skills**: Swift, Objective-C, SwiftUI, UIKit, CoreData, Combine
-- 📫 **Contact**: florian.peyrony@example.com
+- 💼 **Experience**: CEO / Main Developer GTA RP Server
+- 🚀 **Skills**: Swift, UIKit, CoreData, Firebase
+- 🌱 **Learning**: SwiftUI, SwiftData
+- 📫 **Contact**: peyronyflorian.proo@gmail.com
 
 ## 🚀 Recent Projects
 
-### 📱 [Project Name 1]
+### 📱 OneBet
 Brief description of project 1 with key points and your contributions.
 
 ### 📱 [Project Name 2]
@@ -33,18 +33,13 @@ Brief description of project 2 with key points and your contributions.
 
 ## 📊 GitHub Stats
 
-![Florian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=florianpeyrony&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpeyrony&layout=compact&theme=radical)
+![Florian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flopdev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flopdev&layout=compact&theme=radical)
 
 ## 📈 Contributions
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=florianpeyrony&theme=redical)
 
-## 📝 Latest Blog Posts
-
-- [Article 1](#)
-- [Article 2](#)
-- [Article 3](#)
 
 ## 🖥️ Let's Connect
 
@@ -94,11 +89,3 @@ Brief description of project 2 with key points and your contributions.
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
