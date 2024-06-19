@@ -2,7 +2,7 @@
 
 ### 🇫🇷 iOS Developer  | Tech Enthusiast | Creative
 
-![Profile Views](https://komarev.com/ghpvc/?username=flopdev&style=flat-square&color=brown) 
+![Profile Views](https://komarev.com/ghpvc/?username=flopdev&style=flat-square&color=blue) 
 
 
 Welcome to my GitHub! I'm a French iOS developer passionate about creating innovative and high-performance mobile applications.📱
@@ -57,3 +57,9 @@ Input ingredients, get recipe suggestions for fresh and varied meals.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="react logo"  />
   <img width="12" />
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
