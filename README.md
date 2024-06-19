@@ -32,8 +32,8 @@ Input ingredients, get recipe suggestions for fresh and varied meals.
 
 ## 📊 GitHub Stats
 
-![Florian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flopdev&show_icons=true&theme=grey)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flopdev&layout=compact&theme=grey)
+![Florian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flopdev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flopdev&layout=compact&theme=dark)
 
 
 ## 🖥️ Let's Connect
