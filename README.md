@@ -58,8 +58,3 @@ Input ingredients, get recipe suggestions for fresh and varied meals.
   <img width="12" />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
