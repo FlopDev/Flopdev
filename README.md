@@ -18,6 +18,7 @@ Welcome to my GitHub! I'm a French iOS developer passionate about creating innov
 
 ### 📱 OneBet
 An application that posts one prediction per day.
+https://github.com/FlopDev/1Bet
 
 ### 📱 Reciplease
 Input ingredients, get recipe suggestions for fresh and varied meals.
