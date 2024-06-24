@@ -23,6 +23,9 @@ Welcome to my GitHub! I'm a French iOS developer passionate about creating innov
 ### 📱 Reciplease
 - Input ingredients, get recipe suggestions for fresh and varied meals.
   https://github.com/FlopDev/RecipleaseV2
+  
+### 🤖 My Own GPT Prompt for iOS Developement :
+  https://chatgpt.com/g/g-J1Mi2POAp-anita-ios-developer
 
 ## 🛠️ Technologies and Tools
 
