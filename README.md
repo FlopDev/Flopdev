@@ -7,12 +7,14 @@
 
 Welcome to my GitHub! I'm a French iOS developer passionate about creating innovative and high-performance mobile applications.📱
 
+
 ## 🌟 About Me
 
 - 💼 **Experience**: CEO / Main Developer GTA RP Server
 - 🚀 **Skills**: Swift, UIKit, CoreData, Firebase
 - 🌱 **Learning**: SwiftUI, SwiftData
 - 📫 **Contact**: peyronyflorian.pro@gmail.com
+
 
 ## 🚀 Recent Projects
 
@@ -27,6 +29,7 @@ Welcome to my GitHub! I'm a French iOS developer passionate about creating innov
 ### 🤖 My Own GPT Prompt for iOS Developement :
   https://chatgpt.com/g/g-J1Mi2POAp-anita-ios-developer
 
+
 ## 🛠️ Technologies and Tools
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -34,6 +37,7 @@ Welcome to my GitHub! I'm a French iOS developer passionate about creating innov
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
