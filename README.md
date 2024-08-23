@@ -57,7 +57,6 @@ Welcome to my GitHub! I'm a French iOS developer passionate about creating innov
 
 ###
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
